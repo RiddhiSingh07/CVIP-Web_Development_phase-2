@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+h1{    
+font-family: 'Roboto', sans-serif;
+}
+.card-body{
+    background: rgb(80, 231, 226);
+}
+.second {
+    background: rgb(140, 94, 187);
+}
+.nav-link{
+    text-underline-offset: 6px;
+
+}
+.nav-link:hover{
+    background: #ff00b8;
+    text-decoration-color: rgb(18, 17, 14);
+    text-underline-offset: 6px;
+}
+.about,.fifth{
+    background: linear-gradient(135deg, #db73b5, rgb(189 117 218));
+}
+.btn:hover{
+    box-shadow: inset 8px 8px 9px #931cba, inset -6px -6px 7px #2b44b5;
+}
+.third{
+    background: linear-gradient(135deg, #db73b5, rgb(189 117 218));
+}
+.fourth,.contact{
+    background: rebeccapurple;
+}
+.map{
+    background: #80f257;
+}
